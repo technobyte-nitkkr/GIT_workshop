@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Contribution and Add Review - Guidelines
 
 0. Create a issue with your 'Roll no.' as title and your 'name' in the description.
 1. `FORK the repo`

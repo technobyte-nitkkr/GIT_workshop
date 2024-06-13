@@ -15,7 +15,7 @@ export default function Header({ text, logo }) {
 					}}
 				/>
 			)}
-			<span className="text-3xl font-bold font-mono">{text}</span>
+			<span className="text-3xl font-bold font-mono flex-grow text-center">{text}</span>
 			{logo && (
 				<div className="flex gap-2 items-center">
 					<img src={Git} alt="Git" className="h-10" />
