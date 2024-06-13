@@ -1,9 +1,9 @@
 const reviews = [
     {
-        name: "",
-        rollno: "",
-        rate: 0,
-        review: "",
+        name: "abc",
+        rollno: "1221",
+        rate: 5,
+        review: "good nice",
         improvements: [],
     }
 ]
