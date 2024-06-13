@@ -9,7 +9,7 @@ function App() {
     <>
       <div className="">
         {/* TOP */}
-        <Header text={"Git & Github Workshop"} />
+        <Header text={"Git & Github Workshop"} logo={true} />
         <div className="flex">
           <Details />
           <Reviews />

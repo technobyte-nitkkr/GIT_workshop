@@ -21,6 +21,7 @@
         ],
     },
     ```
+    You can leave the `improvements` blank like this `improvements: []`, if you have noting to say.
 6. Add a new object in that `reviws` array.
 7.  ``` 
     $ git add . 
