@@ -1,6 +1,5 @@
 # Contribution and Add Review - Guidelines
 
-0. Create a issue with your 'Roll no.' as title and your 'name' in the description.
 1. `FORK the repo`
 2. `Clone your forked repo`
 3. Create new Branch
@@ -33,4 +32,4 @@
     $ git push origin review/<your-name>
     ```
 10. Go to your git hub and switch to the branch `review/<your-name>`
-11. Create a pull request with a meaning ful message and adding `#<issue number>`  in the message refering to the issue that you created.
+11. Create a pull request with a <your roll no> as title and <your name> in the description.
