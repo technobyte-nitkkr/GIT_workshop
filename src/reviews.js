@@ -13,6 +13,13 @@ const reviews = [
         review: "Amazing Session, Learn a lot of things",
         improvements: [],
     },
+     {
+      name: "Nitika",
+      rollno: "123102164",
+      rate: 5,
+      review: "Amazing session",
+      improvements: [],
+    },
 ]
 
 export { reviews };
