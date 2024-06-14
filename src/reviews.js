@@ -12,6 +12,13 @@ const reviews = [
         rate: 5,
         review: "Great",
         improvements: [],
+    },
+    {
+      name: "Navneet Kaur",
+      rollno: "123102167",
+      rate: 4,
+      review: "good",
+      improvements: [],
     }
 ]
 
