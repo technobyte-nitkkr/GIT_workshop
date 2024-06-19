@@ -28,7 +28,7 @@ const reviews = [
       improvements: [],
     },
       {
-    name: "Riya Raj"
+    name: "Riya Raj",
     rollno: "123103069", 
     rate: 5, 
     review: "Good Workshop", 
