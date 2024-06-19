@@ -27,13 +27,6 @@ const reviews = [
       review: "Amazing session",
       improvements: [],
     },
-      {
-    name: "Riya Raj",
-    rollno: "123103069", 
-    rate: 5, 
-    review: "Good Workshop", 
-    improvements: [],
-}
 ]
 
 export { reviews };
